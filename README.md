@@ -93,7 +93,7 @@ _Trecho depois de passar por correção;_
 
 [Diário de bordo](https://docs.google.com/document/d/13Zp7qwKEdYx5P00r9jqScYVT5cDBjqQo85fejedBCf8/edit?tab=t.0)
 
-[Relatório de orçamento de hospedagem e domínio](https://bb.cruzeirodosulvirtual.com.br/ultra/courses/_1109880_1/outline)
+
 
 
 
