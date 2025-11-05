@@ -11,7 +11,6 @@ Este site é dedicado à fotografia política, uma linguagem visual que combina 
 - [Marcela Nascimento](https://github.com/MarcelaNascimento5)
 - [Matheus Cardoso](https://github.com/mtscardoso)
 - [Vinicius Lima](https://github.com/viniciuslimeiro)
-- [Vitória Margutti](https://github.com/VitoriaGomesMargutti)
 - [Beatriz Cassia](https://github.com/beatrizcassiaalves-lang)
 - [Gabriel Paiva](https://github.com/notavailableme)
 - [Anderson Barbosa](https://github.com/andersonbarbosaa56-dotcom)
@@ -37,7 +36,7 @@ Alguns objetivos para o nosso site:
 
 [Vinicius Lima](https://github.com/viniciuslimeiro) e [Anderson Barbosa](https://github.com/andersonbarbosaa56-dotcom) - Responsáveis pela página com recomendações de equipamentos (descartada do projeto).
 
-[Matheus Cardoso](https://github.com/mtscardoso) - Responsável pela página FAQ e pela página de Eventos.
+[Matheus Cardoso](https://github.com/mtscardoso) - Responsável pela página FAQ e pela página de Eventos (descartada do projeto).
 
 [Gabriel Paiva](https://github.com/notavailableme) - Responsável pelo Relatório de orçamento de hospedagem e domínio. 
 
